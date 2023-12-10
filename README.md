@@ -16,6 +16,6 @@
 PR이나 커밋 상황에서도 이해하기 쉽게 메시지를 작성합니다.
 
 
-### 블로그
-- Tistory Blog : https://ma-to.tistory.com/
+
+Tistory Blog : https://ma-to.tistory.com/
 
