@@ -1,5 +1,4 @@
-# About Me 👋
-안녕하세요, 저는 백엔드 개발자입니다. 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=360&text=About+me&fontSize=70&fontAlign=50&fontAlignY=50&desc=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%A0%80%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.++&descSize=20&descAlign=50&descAlignY=65)
 
 
 ### **[ '왜?'를 중요하게 생각하는 개발자 ]**
