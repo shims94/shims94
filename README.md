@@ -1,21 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=360&text=About+me&fontSize=70&fontAlign=50&fontAlignY=50&desc=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EC%A0%80%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.++&descSize=20&descAlign=50&descAlignY=65)
 
 
-### **[ '왜?'를 중요하게 생각하는 개발자 ]**
-
-
-문제를 해결했을 때, 해결한 상황에서 원인과 해결방법을 기록하고 정리합니다.
-
-새로운 기술을 적용했을 때, 이 기술이 왜 필요한지 어떠한 장점때문에 선택했는지 생각하고 정리합니다.
-
-
-
-### **[ 공유를 중요시 하는 개발자 ]**
-
-
-문제해결을 했을 때, 새로운 기술을 습득했을 때, 글로 정리하고 공유합니다.
-
-읽기 쉬운 코드를 작성하고, PR과 Commit은 간결하고 정확하게 작성합니다.
 
 
 
